@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit 725 practical 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uchi-ctrl/sit725-2021-t2-prac2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Uche Ajoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uchi-ctrl/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/Uchi-ctrl/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
